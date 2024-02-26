@@ -2,6 +2,9 @@
 ---
 <img src="https://img.shields.io/badge/Swift-c1d1d8?style=flat&logo=swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-c1d1d8?style=flat&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-c1d1d8?style=flat&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-c1d1d8?style=flat&logo=c++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-c1d1d8?style=flat&logo=android&logoColor=white"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoycong&count_bg=%23C3CED0&title_bg=%238DAADF&icon=applemusic.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
