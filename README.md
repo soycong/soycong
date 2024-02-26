@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoycong&count_bg=%23C3CED0&title_bg=%238DAADF&icon=applemusic.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![soycong's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=soycong&include_all_commits=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats)
+[![soycong's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=soycong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats#gh-light-mode-only)
 
 <!--
 **soycong/soycong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
