@@ -25,8 +25,8 @@
 <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@soycong"/></a>
 <img src="https://velog-readme-stats.vercel.app/api/badge?name=soycong"/></a>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soycong)](https://velog.io/@soycong) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=eungyeole)](https://velog.io/@eungyeole) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=soycong)](https://velog.io/@soycong) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soycong)](https://github.com/eungyeole/velog-readme-stats)
 
 
 
