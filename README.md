@@ -11,7 +11,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=soycong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats#gh-light-mode-only" width=50% />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soycong&layout=compact" width=44% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soycong&layout=compact" width=45% />
 </a>
 </a>    
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
