@@ -17,7 +17,7 @@
 <a href="https://github.com/mazassumnida/mazassumnida">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehfktjgml" width=30% />
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=64%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=60%/>
 </a>
 </a>
 
