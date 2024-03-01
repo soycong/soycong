@@ -1,8 +1,9 @@
 # Soy's 🥞
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoycong&count_bg=%23C3CED0&title_bg=%238DAADF&icon=applemusic.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
--  상명대학교 휴먼지능정보공학과 & 인공지능융합전공
-> 안녕하세요 :) UMC 4기 iOS 파트원 스히/백서희 입니다! 잘 지내보아용
+> 백서희 2000.12.23
+> 상명대학교 휴먼지능정보공학과 & 인공지능융합전공
+
 
 ## 🛠️ Skills
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/></a>
