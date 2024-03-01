@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-c1d1d8?style=flat&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 
