@@ -23,13 +23,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 
 ## 🍎 Tech Blog
-<a href="https://github.com/eungyeole/velog-readme-stats">
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soycong)](https://velog.io/@soycong) 
+
+<a href="https://velog.io/@soycong">
   <img src="https://velog-readme-stats.vercel.app/api/list?name=soycong" width=45% />
 </a>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soycong)](https://velog.io/@soycong) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=soycong)](https://velog.io/@soycong) 
-
 
 <!--
 **soycong/soycong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
