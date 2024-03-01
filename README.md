@@ -3,7 +3,7 @@
 
 > 백서희 2000.12.23  
 > 상명대학교 휴먼지능정보공학과 & 인공지능융합전공
-
+<br/> 
 ## 🛠️ Skills
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Java-c1d1d8?style=flat&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  
+<br/> 
 ## 🎞️ Records
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=soycong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats#gh-light-mode-only" width=50% />
@@ -25,7 +25,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=55%/>
 </a>
-  
+<br/> 
 ## 🍎 Tech Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soycong)](https://velog.io/@soycong) 
 
