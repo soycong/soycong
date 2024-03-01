@@ -16,6 +16,10 @@
 
   
 ## 🎞️ Records
+  
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=tokyo-night&hide_border=true&bg_color=FFFFFF" width=97%/>
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=soycong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats#gh-light-mode-only" width=35% />
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -23,10 +27,7 @@
 <a href="https://github.com/mazassumnida/mazassumnida">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehfktjgml" width=30% />
 </a>
-</a>   
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=tokyo-night&hide_border=true&bg_color=FFFFFF" width=97%/>
-</a>
+</a> 
 
   
 ## 🍎 Tech Blog
