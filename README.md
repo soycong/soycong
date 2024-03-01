@@ -1,4 +1,5 @@
 # Soy's 🥞
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoycong&count_bg=%23C3CED0&title_bg=%238DAADF&icon=applemusic.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=soycong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats#gh-light-mode-only" width=50% />
@@ -22,7 +23,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 
 ## 🍎 Tech Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soycong)](https://velog.io/@soycong) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soycong)](https://velog.io/@soycong) <\a>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=soycong)](https://velog.io/@soycong) 
 
 
