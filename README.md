@@ -1,13 +1,5 @@
 # Soy's 🥞
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoycong&count_bg=%23C3CED0&title_bg=%238DAADF&icon=applemusic.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![soycong's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=soycong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats#gh-light-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soycong&layout=compact)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehfktjgml)](https://solved.ac/ehfktjgml)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=soycong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats#gh-light-mode-only" width=50% />
 <a href="https://github.com/anuraghazra/github-readme-stats">
