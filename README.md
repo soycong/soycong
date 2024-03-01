@@ -19,7 +19,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=60%/>
 </a>
-</a>
 
 ## 🛠️ Skills
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/></a>
