@@ -9,7 +9,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehfktjgml)](https://solved.ac/ehfktjgml)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soycong&layout=compact" width=38% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soycong&layout=compact" width=45% />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=soycong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats#gh-light-mode-only" width=50% />
