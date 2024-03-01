@@ -19,13 +19,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=soycong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats#gh-light-mode-only" width=50% />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soycong" width=30% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soycong&layout=compact" width=45% />
 </a>
-</a>    
+</a>   
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=tokyo-night&bg_color=000000&hide_border=true" width=55%/>
 <a href="https://github.com/mazassumnida/mazassumnida">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehfktjgml" width=40% />
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=55%/>
 </a>
 
   
