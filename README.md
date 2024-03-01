@@ -11,7 +11,7 @@
 <a href="https://github.com/mazassumnida/mazassumnida">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehfktjgml" width=30% />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=soycong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats#gh-light-mode-only" width=30% />
+    <img src="https://github-readme-stats.vercel.app/api?username=soycong&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/soycong/github-readme-stats#gh-light-mode-only" width=33% />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soycong&layout=compact" width=30% />
 </a>
