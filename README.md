@@ -24,8 +24,7 @@
 ## 🍎 Tech Blog
 <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@soycong"/></a>
 <img src="https://velog-readme-stats.vercel.app/api/badge?name=soycong"/></a>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soy)](https://velog.io/@eungyeole) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soycong)](https://velog.io/@soycong) 
 
 <!--
 **soycong/soycong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
