@@ -23,7 +23,7 @@
 </a>
 </a>   
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=tokyo-night&bg_color=000000&hide_border=true" width=55%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=tokyo-night&bg_color=111111&hide_border=true" width=55%/>
 <a href="https://github.com/mazassumnida/mazassumnida">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehfktjgml" width=40% />
 </a>
