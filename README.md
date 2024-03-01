@@ -4,7 +4,6 @@
 > 백서희 2000.12.23
 > 상명대학교 휴먼지능정보공학과 & 인공지능융합전공
 
-
 ## 🛠️ Skills
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
