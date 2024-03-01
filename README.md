@@ -26,7 +26,8 @@
 <a href="https://github.com/eungyeole/velog-readme-stats">
   <img src="https://velog-readme-stats.vercel.app/api/list?name=soycong" width=45% />
 </a>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soycong)](https://velog.io/@soycong) <\a>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soycong)](https://velog.io/@soycong) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=soycong)](https://velog.io/@soycong) 
 
 
