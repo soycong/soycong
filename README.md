@@ -25,7 +25,7 @@
 </a>
 </a>   
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=tokyo-night&bg_color=111111&hide_border=true" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=tokyo-night&bg_color=111111&hide_border=true" height=80% width=97%/>
 </a>
 
   
