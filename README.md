@@ -1,4 +1,7 @@
-# Soy's 🥞
+<img src="https://github.com/soycong/soycong/assets/62353647/13e49fd4-b5dc-4988-b446-4507cd7e0ac6" width=75% />
+
+# 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoycong&count_bg=%23C3CED0&title_bg=%238DAADF&icon=applemusic.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > 백서희 2000.12.23  
