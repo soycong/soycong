@@ -1,4 +1,4 @@
-<img src="https://github.com/soycong/soycong/assets/62353647/13e49fd4-b5dc-4988-b446-4507cd7e0ac6" width=40% />
+<img src="https://github.com/soycong/soycong/assets/62353647/38f577dd-50fb-4400-92e6-675a3355fbec" width=35% />
 
 # 
 
@@ -18,7 +18,9 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 
-  
+
+<br/>
+
 ## 🎞️ Records
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -33,6 +35,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=soycong&theme=tokyo-night&hide_border=true&bg_color=FFFFFF&custom_title=Contribution%20Graph" width=97%/>
 </a> 
 
+<br/>
   
 ## 🍎 Tech Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=soycong)](https://velog.io/@soycong) 
