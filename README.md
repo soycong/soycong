@@ -1,4 +1,4 @@
-<img src="https://github.com/soycong/soycong/assets/62353647/13e49fd4-b5dc-4988-b446-4507cd7e0ac6" width=75% />
+<img src="https://github.com/soycong/soycong/assets/62353647/13e49fd4-b5dc-4988-b446-4507cd7e0ac6" width=40% />
 
 # 
 
