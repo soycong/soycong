@@ -4,8 +4,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoycong&count_bg=%23C3CED0&title_bg=%238DAADF&icon=applemusic.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
-> 백서희 2000.12.23  
-> 상명대학교 휴먼지능정보공학과 & 인공지능융합전공
+> 백서희 (2000.12.23)
+> 상명대학교 휴먼지능정보공학과 & 인공지능융합전공 (2024.08 졸업)
 <br/>
 
 ## 🛠️ Skills
