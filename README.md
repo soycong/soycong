@@ -1,6 +1,20 @@
-> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoycong&count_bg=%23C3CED0&title_bg=%238DAADF&icon=applemusic.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
-> 
-> <img src="https://github.com/soycong/soycong/assets/62353647/38f577dd-50fb-4400-92e6-675a3355fbec" width=35% />
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoycong&count_bg=%23C3CED0&title_bg=%238DAADF&icon=applemusic.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![github-header](https://github.com/user-attachments/assets/25bcd954-6a91-4785-a42d-4de2210ed7b1)
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+    <!-- 배경 그라데이션 -->
+    <defs>
+        <linearGradient id="warmGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#DBE9F6"/>
+            <stop offset="100%" style="stop-color:#FFEEE6"/>
+        </linearGradient>
+        <!-- 텍스트용 그라데이션 -->
+        <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#B4CFE8"/>
+            <stop offset="100%" style="stop-color:#FFBFA9"/>
+        </linearGradient>
+    </defs>
+    <rect width="1200" height="300" fill="url(#warmGradient)"/>
 
 ## 🛠️ Skills
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/></a>
